@@ -1,4 +1,4 @@
-CREATE DATABASE todo
+CREATE DATABASE todo;
 
 \c todo
 
